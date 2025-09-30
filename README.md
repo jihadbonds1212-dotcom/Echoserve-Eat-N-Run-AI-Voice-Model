@@ -1,16 +1,4 @@
 
-Eat-N-Run-SmartMenu/
-├── README.md
-├── voice-model/
-│   ├── echo-serve.md
-│   ├── voice-interaction.md
-│   └── audio-demo/ (optional folder for voice clips)
-├── backend/
-│   └── behavior-engine.md
-├── frontend/
-│   └── ui-design.md
-├── prompts/
-│   └── recommendation-prompt.md
 # 🗣️ EchoServe – Voice Interface for Eat-N-Run SmartMenu
 
 **EchoServe** is the adaptive voice model that powers the conversational experience of Eat-N-Run SmartMenu. It greets customers by name, recalls their favorite orders, offers loyalty rewards, and guides them through pickup—all with warmth, clarity, and precision.
